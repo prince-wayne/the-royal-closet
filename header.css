@@ -13,20 +13,17 @@
   height: 100px;
   position: absolute;
   top: -25px;
-  
 }
 #logoWrapper{
   margin-bottom: 20px;
   display: inline-block;
   position: relative;
   width: 150px;
-  
 }
 #backToSchool{
   height: 50px;
   float: right;
-  margin-right: 20px
-  
+  margin-right: 20px;
 }
 input{
   vertical-align: top;
